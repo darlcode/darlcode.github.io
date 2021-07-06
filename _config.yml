@@ -1,7 +1,7 @@
 # Site settings
 title:          Bananang
 description:    "Everything"
-baseurl:        "/darlcode"
+#baseurl:        "/darlcode"
 url:            "https://darlcode.github.io"
 
 # Google Analytics
