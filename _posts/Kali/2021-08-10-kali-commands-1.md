@@ -3,6 +3,7 @@ layout: post
 title: "칼리 리눅스 기본 명령어 1"
 author: "Bananag"
 tags: Kali
+excerpt_separator: 
 ---
 
 <h2>dpkg 명령어</h2><br>
